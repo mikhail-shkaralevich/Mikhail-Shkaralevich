@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mikhail-Shkaralevich
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flask, django
+- 🌱 I’m currently learning flask, django, java, python, html/css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
 
 <!---
 Mikhail-Shkaralevich/Mikhail-Shkaralevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
