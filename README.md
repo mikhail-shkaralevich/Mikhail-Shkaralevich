@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikhail-Shkaralevich
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flask, django, java, python, html/css
+- 🌱 I have experience in C++, java, python, html/css, flask, django,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
