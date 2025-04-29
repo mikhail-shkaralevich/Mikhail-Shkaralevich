@@ -1,4 +1,3 @@
-<!---
 - Hi there, I’m Mikhail Shkaralevich 👋
 
 -🎓 Senior Computer Science student at the University of Hawaii at Manoa (Graduating Fall 2025)
@@ -8,9 +7,6 @@
 -🌍 Committed to creating impactful technology that supports sustainability, security, and innovation
 -📫 How to reach me: mkaralevich8@gmail.com
 
-
-
---->
 
 <!---
 Mikhail-Shkaralevich/Mikhail-Shkaralevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
