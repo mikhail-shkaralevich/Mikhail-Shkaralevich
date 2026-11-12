@@ -1,9 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=63A0FF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋+I'm+Mikhail;" />
 </h1>
+
 <div align="right">
 <a name="top"></a>
+<img src="https://komarev.com/ghpvc/?username=mikhail-shkaralevich&style=for-the-badge&color=6D28D9"/>
+</a>
 </div>
+<img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
 
 <div align="center">
     
