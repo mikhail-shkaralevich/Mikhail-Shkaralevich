@@ -41,6 +41,8 @@ Full-Stack Engineer • Homelabber
 
 ---
 
+<div align="center">
+
 ## 💻 Technical Expertise
 
 
@@ -64,7 +66,7 @@ Full-Stack Engineer • Homelabber
     <img src="https://img.shields.io/badge/Email-mkaralevich8@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/879156480551567471>
-    <img src="https://img.shields.io/badge/Discord-@syA5UQbx5u-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-@mikhailshkaralevich?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/mikhail-shkaralevich">
