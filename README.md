@@ -87,11 +87,3 @@ Full-Stack Engineer • Homelabber
   <img alt="github-snake" src="https://raw.githubusercontent.com/l1ack0der/l1ack0der/output/snake.svg" />
 </picture>
 </div>
-
-<div align="center">
-
-<br><br>
-###
-
-
-
