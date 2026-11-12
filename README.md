@@ -76,9 +76,9 @@ Full-Stack Engineer • Homelabber
 
 <div align="center">
 
-<a href="#top">
+<!-- <a href="#top">
   <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP%20⬆️-FF69B4?style=for-the-badge&labelColor=0d1117&color=8A2BE2&logo=rocket&logoColor=white" />
-</a>
+</a> -->
 
 <div align="center">
 <picture>
