@@ -4,6 +4,10 @@
 <div align="right">
 <a name="top"></a>
 
+## 👩‍💻 About Me
+
+Full-Stack Engineer • Homelabber
+
 <img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich)"/>
 
 </div>
@@ -27,10 +31,6 @@
     />
   </a>
 </p> -->
-
-## 👩‍💻 About Me
-
-Full-Stack Engineer • Homelabber
 
 ---
 
