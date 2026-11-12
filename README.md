@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=mikhail-shkaralevich&style=for-the-badge&color=6D28D9"/>
 </a>
 </div>
-<img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
+
 
 <div align="center">
     
