@@ -5,6 +5,8 @@
 <a name="top"></a>
 </div>
 
+<div align="center">
+    
 ## 👩‍💻 About Me
 
 Full-Stack Engineer • Homelabber
@@ -16,8 +18,6 @@ Full-Stack Engineer • Homelabber
 
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hack+to+secure+🛠️;" /></h3> -->
 ---
-
-<div align="center">
 
 <!-- GitHub Language Card: -->
 
