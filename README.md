@@ -35,8 +35,6 @@ Full-Stack Engineer • Homelabber
   </a>
 </p> -->
 
----
-
 <p align="center">
   <em style="color: #8A2BE2; font-size: 18px;">Building Solutions, Securing Web, Making the world a better place 🛡️</em>
 </p>
