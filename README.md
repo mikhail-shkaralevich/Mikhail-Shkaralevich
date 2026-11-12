@@ -20,9 +20,11 @@
 
 <div align="center">
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
+<!-- GitHub Language Card: -->
 
-<p align="center">
+<!-- ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card -->
+
+<!-- <p align="center">
   <a href="https://github.com/mikhail-shkaralevich/github-languages-card">
     <img
       src="https://github-languages-card.vercel.app/api/top-languages?username=mikhail-shkaralevich&theme=hacker"
@@ -30,7 +32,7 @@
       alt="GitHub Languages Card"
     />
   </a>
-</p>
+</p> -->
 
 ---
 
