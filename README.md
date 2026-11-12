@@ -20,7 +20,6 @@ Full-Stack Engineer • Homelabber
 <img width="100%" align="center" src="https://raw.githubusercontent.com/l1ackoder/l1ackoder/main/k.gif" />
 
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+hack+to+secure+🛠️;" /></h3> -->
----
 
 <!-- GitHub Language Card: -->
 
@@ -37,9 +36,11 @@ Full-Stack Engineer • Homelabber
 </p> -->
 
 ---
+
 <p align="center">
   <em style="color: #8A2BE2; font-size: 18px;">Building Solutions, Securing Web, Making the world a better place 🛡️</em>
 </p>
+
 ---
 
 <div align="center">
