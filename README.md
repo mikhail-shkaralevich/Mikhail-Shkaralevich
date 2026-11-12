@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <em style="color: #8A2BE2; font-size: 18px;">Creating Solutions, Securing Web, Making the world a better place 🛡️</em>
+  <em style="color: #8A2BE2; font-size: 18px;">Building Solutions, Securing Web, Making the world a better place 🛡️</em>
 </p>
 
 <div align="center">
@@ -23,9 +23,9 @@
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28"> GitHub Languages Card
 
 <p align="center">
-  <a href="https://github.com/arefinani/github-languages-card">
+  <a href="https://github.com/mikhail-shkaralevich/github-languages-card">
     <img
-      src="https://github-languages-card.vercel.app/api/top-languages?username=arefinoni&theme=hacker"
+      src="https://github-languages-card.vercel.app/api/top-languages?username=mikhail-shkaralevich&theme=hacker"
       width="760"
       alt="GitHub Languages Card"
     />
@@ -36,7 +36,7 @@
 
 ## 👩‍💻 About Me
 
-Full-Stack Engineer • Security Engineer • Homelabber
+Full-Stack & Security Engineer • Homelabber
 
 ---
 
