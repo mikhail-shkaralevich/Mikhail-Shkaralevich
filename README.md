@@ -4,7 +4,8 @@
 <div align="right">
 <a name="top"></a>
 
-<img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green)"/>
+<!-- <img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green)"/> -->
+![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green
 
 </a>
 
