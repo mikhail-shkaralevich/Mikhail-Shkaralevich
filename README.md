@@ -3,6 +3,7 @@
 </h1>
 <div align="right">
 <a name="top"></a>
+</div>
 
 ## 👩‍💻 About Me
 
