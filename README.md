@@ -12,7 +12,7 @@
     
 ## 👩‍💻 About Me
 
-Full-Stack Engineer • Homelabber
+Full-Stack Engineer • BS Computer Science • Homelabber
 
 <img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich)"/>
 
