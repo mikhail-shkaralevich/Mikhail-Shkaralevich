@@ -4,8 +4,7 @@
 <div align="right">
 <a name="top"></a>
 
-<!-- <img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green)"/> -->
-![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green
+<img src="![](https://komarev.com/ghpvc/?username=mikhail-shkaralevich&color=green)"/>
 
 </a>
 
@@ -37,7 +36,7 @@
 
 ## 👩‍💻 About Me
 
-Full-Stack & Security Engineer • Homelabber
+Full-Stack Engineer • Homelabber
 
 ---
 
@@ -68,7 +67,7 @@ Full-Stack & Security Engineer • Homelabber
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/mikhail-shkaralevich">
-    <img src="https://img.shields.io/badge/LinkedIn-Mikhail%20Shkaralevich-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mikhail%20Shkaralevich-FF0000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+ICAgPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz4gPC9zdmc+Cg==&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/synqonic">
     <img src="https://img.shields.io/badge/Instagram-synqonic-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
